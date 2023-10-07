@@ -1,4 +1,5 @@
 Swift Simple Calculator
+
 <img width="451" alt="Screenshot 2023-10-07 at 20 07 40" src="https://github.com/StevenO29/SwiftSimpleCalculator/assets/95264788/d57a99f5-baf1-4db2-86be-b28d4d212d77">
 
 Overview
